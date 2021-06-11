@@ -30,3 +30,6 @@ To experiment:
 2. bring out a pet
 3. move your cursor outside the window and do not interact with the pet
 4. note which ballz your pet prefers
+
+
+[<img src="https://img.youtube.com/vi/ZyxfXMkUrgY/maxresdefault.jpg" width="50%">](https://youtu.be/ZyxfXMkUrgY)
